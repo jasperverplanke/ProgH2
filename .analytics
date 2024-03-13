@@ -1,0 +1,67 @@
+timestamp=[2024-02-28 16:27:55], mode=WORKBENCH_START, duration=0:00:10.270, duration_ms=10270, data={}
+timestamp=[2024-02-28 16:27:55], mode=WORKBENCH_UI_INIT, duration=0:00:00.065, duration_ms=65, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-02-28 16:27:56], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.092, duration_ms=92, data={}
+timestamp=[2024-02-28 16:28:41], mode=APP_CREATION, duration=0:00:04.924, duration_ms=4924, data={name=Week4, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=design_1_wrapper, application_type=application}
+timestamp=[2024-02-28 16:31:55], mode=PLATFORM_GENERATION, duration=0:00:06.106, duration_ms=6106, data={name=design_1_wrapper}
+timestamp=[2024-02-28 16:31:55], mode=BUILD, duration=0:00:00.430, duration_ms=430, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 16:36:09], mode=BUILD, duration=0:00:00.425, duration_ms=425, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 16:36:28], mode=BUILD, duration=0:00:01.422, duration_ms=1422, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 16:36:53], mode=BUILD, duration=0:00:00.929, duration_ms=929, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 16:38:56], mode=BUILD, duration=0:00:00.921, duration_ms=921, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 20:32:49], mode=BUILD, duration=0:00:01.133, duration_ms=1133, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 20:32:50], mode=BUILD, duration=0:00:00.129, duration_ms=129, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 20:35:35], mode=BUILD, duration=0:00:00.189, duration_ms=189, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 20:35:36], mode=BUILD, duration=0:00:00.128, duration_ms=128, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 20:36:22], mode=BUILD, duration=0:00:00.634, duration_ms=634, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 20:36:22], mode=BUILD, duration=0:00:00.133, duration_ms=133, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 20:38:44], mode=BUILD, duration=0:00:00.704, duration_ms=704, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 20:38:44], mode=BUILD, duration=0:00:00.135, duration_ms=135, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 20:44:45], mode=BUILD, duration=0:00:00.880, duration_ms=880, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 20:44:45], mode=BUILD, duration=0:00:00.135, duration_ms=135, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:30:00], mode=BUILD, duration=0:00:00.669, duration_ms=669, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:33:58], mode=BUILD, duration=0:00:00.901, duration_ms=901, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:33:59], mode=BUILD, duration=0:00:00.122, duration_ms=122, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:35:55], mode=BUILD, duration=0:00:00.765, duration_ms=765, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:35:55], mode=BUILD, duration=0:00:00.138, duration_ms=138, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:36:52], mode=BUILD, duration=0:00:00.648, duration_ms=648, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:36:53], mode=BUILD, duration=0:00:00.135, duration_ms=135, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:37:42], mode=BUILD, duration=0:00:00.643, duration_ms=643, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:37:43], mode=BUILD, duration=0:00:00.125, duration_ms=125, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:40:20], mode=BUILD, duration=0:00:00.894, duration_ms=894, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:40:21], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:41:14], mode=BUILD, duration=0:00:00.689, duration_ms=689, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:41:15], mode=BUILD, duration=0:00:00.135, duration_ms=135, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:41:59], mode=BUILD, duration=0:00:00.711, duration_ms=711, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:41:59], mode=BUILD, duration=0:00:00.128, duration_ms=128, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:43:12], mode=BUILD, duration=0:00:00.646, duration_ms=646, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:43:12], mode=BUILD, duration=0:00:00.121, duration_ms=121, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:45:08], mode=BUILD, duration=0:00:00.629, duration_ms=629, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:45:09], mode=BUILD, duration=0:00:00.122, duration_ms=122, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:46:34], mode=BUILD, duration=0:00:00.635, duration_ms=635, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:46:34], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:47:30], mode=BUILD, duration=0:00:00.622, duration_ms=622, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:47:30], mode=BUILD, duration=0:00:00.139, duration_ms=139, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:47:53], mode=BUILD, duration=0:00:00.625, duration_ms=625, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:47:53], mode=BUILD, duration=0:00:00.129, duration_ms=129, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:47:59], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:48:00], mode=BUILD, duration=0:00:00.137, duration_ms=137, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:48:48], mode=BUILD, duration=0:00:00.625, duration_ms=625, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:48:49], mode=BUILD, duration=0:00:00.147, duration_ms=147, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:51:26], mode=BUILD, duration=0:00:00.277, duration_ms=277, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:51:51], mode=BUILD, duration=0:00:00.644, duration_ms=644, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:51:52], mode=BUILD, duration=0:00:00.128, duration_ms=128, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:52:45], mode=BUILD, duration=0:00:00.634, duration_ms=634, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-28 21:52:46], mode=BUILD, duration=0:00:00.140, duration_ms=140, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-29 18:02:35], mode=BUILD, duration=0:00:01.794, duration_ms=1794, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-29 18:02:36], mode=BUILD, duration=0:00:00.238, duration_ms=238, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-29 18:04:05], mode=BUILD, duration=0:00:00.691, duration_ms=691, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-29 18:04:06], mode=BUILD, duration=0:00:00.153, duration_ms=153, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-29 18:05:17], mode=BUILD, duration=0:00:00.638, duration_ms=638, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-29 18:05:17], mode=BUILD, duration=0:00:00.129, duration_ms=129, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-29 18:06:03], mode=BUILD, duration=0:00:00.695, duration_ms=695, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-02-29 18:06:04], mode=BUILD, duration=0:00:00.126, duration_ms=126, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-06 08:51:54], mode=BUILD, duration=0:00:00.498, duration_ms=498, data={name=Week4, configuration=Debug, clean_build=false}
+timestamp=[2024-03-06 08:51:55], mode=BUILD, duration=0:00:00.193, duration_ms=193, data={name=Week4_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-13 09:25:24], mode=WORKBENCH_START, duration=0:00:13.746, duration_ms=13746, data={}
+timestamp=[2024-03-13 09:25:26], mode=WORKBENCH_UI_INIT, duration=0:00:01.820, duration_ms=1820, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,Week4,Week4_system,design_1_wrapper}
+timestamp=[2024-03-13 09:25:26], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.208, duration_ms=208, data={}
