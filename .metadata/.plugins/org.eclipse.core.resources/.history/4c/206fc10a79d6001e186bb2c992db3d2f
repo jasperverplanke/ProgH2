@@ -1,0 +1,55 @@
+#include "xparameters.h"
+#include "xil_printf.h"
+#include "xgpio.h"
+#include "xil_types.h"
+
+// Get device IDs from xparameters.h
+#define DIP_ID XPAR_AXI_GPIO_0_DEVICE_ID
+#define LED_ID XPAR_AXI_GPIO_LED_DEVICE_ID
+#define DIP_CHANNEL 1
+#define LED_CHANNEL 1
+#define DIP_MASK 0b1111111111111111
+#define LED_MASK 0b1111111111111111
+
+int main() {
+	XGpio_Config *cfg_ptr;
+	XGpio led_device, DIP_device;
+	u32 data;
+
+	xil_printf("Entered function main\r\n");
+
+	// Initialize LED Device
+	cfg_ptr = XGpio_LookupConfig(LED_ID);
+	XGpio_CfgInitialize(&led_device, cfg_ptr, cfg_ptr->BaseAddress);
+
+	// Initialize Button Device
+	cfg_ptr = XGpio_LookupConfig(DIP_ID);
+	XGpio_CfgInitialize(&DIP_device, cfg_ptr, cfg_ptr->BaseAddress);
+
+	// Set switch bistate
+	XGpio_SetDataDirection(&DIP_device, DIP_CHANNEL, DIP_MASK);
+
+	// Set Led Tristate
+	XGpio_SetDataDirection(&led_device, LED_CHANNEL, 0);
+
+	while (1) {
+		data = XGpio_DiscreteRead(&DIP_device, DIP_CHANNEL);
+		data &= DIP_MASK;
+
+		// Initialize LED mask to 0
+		u32 ledData = 0;
+
+		// Check each bit in the DIP switch data
+		for (int position = 0; position < 16; position++) {
+		    if (data & (1 << position)) {
+		        // If the corresponding DIP switch is flipped, set the corresponding LED bit
+		        ledData |= (1 << position);
+		    }
+		}
+
+		xil_printf("%u\n", ledData);
+
+		// Write the resulting LED data to the LED device
+		XGpio_DiscreteWrite(&led_device, LED_CHANNEL, ledData);
+	}
+}

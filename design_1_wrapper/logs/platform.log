@@ -1,0 +1,1021 @@
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-02-28.16:28:36::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"C:/Users/Kasper/Downloads/progh2week2versie4/week4progh/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-02-28.16:28:36::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"C:/Users/Kasper/Downloads/progh2week2versie4/week4progh/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2024-02-28.16:28:36::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-02-28.16:28:36::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-02-28.16:28:36::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"C:/Users/Kasper/Downloads/progh2week2versie4/week4progh/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2024-02-28.16:28:36::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"C:/Users/Kasper/Downloads/progh2week2versie4/week4progh/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:36::SCWDomain::checking for install qemu data   : 
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:36::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:36::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:36::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-02-28.16:28:36::SCWMssOS::No sw design opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:36::SCWMssOS::mss does not exists at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:36::SCWMssOS::Creating sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:36::SCWMssOS::Adding the swdes entry, created swdb C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:36::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:36::SCWMssOS::Writing mss at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:36::SCWMssOS::Completed writing the mss file at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-02-28.16:28:36::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-02-28.16:28:36::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-02-28.16:28:36::SCWMssOS::Completed writing the mss file at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-02-28.16:28:36::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-02-28.16:28:38::SCWMssOS::Saving the mss changes C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-02-28.16:28:38::SCWMssOS::Writing the mss file completed C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::Commit changes completed.
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:38::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:38::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:38::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:38::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:38::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:38::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"C:/Users/Kasper/Downloads/progh2week2versie4/week4progh/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.0",
+					"mssFile":	"",
+					"md5Digest":	"6414d04d4f8864190b8988c0bd07aaa3",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-02-28.16:28:38::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2024-02-28.16:28:38::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-02-28.16:28:38::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2024-02-28.16:28:38::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-02-28.16:28:38::SCWSystem::Not a boot domain 
+LOG::2024-02-28.16:28:38::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-02-28.16:28:38::SCWDomain::Generating domain artifcats
+TRACE::2024-02-28.16:28:38::SCWMssOS::Generating standalone artifcats
+TRACE::2024-02-28.16:28:38::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:38::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:38::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::Completed writing the mss file at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-02-28.16:28:38::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-02-28.16:28:38::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-02-28.16:28:38::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
+TRACE::2024-02-28.16:28:38::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-02-28.16:28:38::SCWMssOS::Copying to export directory.
+TRACE::2024-02-28.16:28:38::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-02-28.16:28:38::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-02-28.16:28:38::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-02-28.16:28:38::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2024-02-28.16:28:38::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2024-02-28.16:28:38::SCWPlatform::Started preparing the platform 
+TRACE::2024-02-28.16:28:38::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2024-02-28.16:28:38::SCWSystem::dir created 
+TRACE::2024-02-28.16:28:38::SCWSystem::Writing the bif 
+TRACE::2024-02-28.16:28:38::SCWPlatform::Started writing the spfm file 
+TRACE::2024-02-28.16:28:38::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-02-28.16:28:38::SCWPlatform::Completed generating the platform
+TRACE::2024-02-28.16:28:38::SCWMssOS::Saving the mss changes C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-28.16:28:38::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-28.16:28:38::SCWMssOS::Commit changes completed.
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:38::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:38::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:38::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:38::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:38::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:38::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:38::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:38::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"C:/Users/Kasper/Downloads/progh2week2versie4/week4progh/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.0",
+					"mssFile":	"",
+					"md5Digest":	"6414d04d4f8864190b8988c0bd07aaa3",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-02-28.16:28:38::SCWPlatform::updated the xpfm file.
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::Saving the mss changes C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-28.16:28:39::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-28.16:28:39::SCWMssOS::Commit changes completed.
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"C:/Users/Kasper/Downloads/progh2week2versie4/week4progh/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.0",
+					"mssFile":	"",
+					"md5Digest":	"6414d04d4f8864190b8988c0bd07aaa3",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::Saving the mss changes C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-28.16:28:39::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-28.16:28:39::SCWMssOS::Commit changes completed.
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"C:/Users/Kasper/Downloads/progh2week2versie4/week4progh/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.0",
+					"mssFile":	"",
+					"md5Digest":	"6414d04d4f8864190b8988c0bd07aaa3",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-02-28.16:28:39::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2024-02-28.16:28:39::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-02-28.16:28:39::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2024-02-28.16:28:39::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-02-28.16:28:39::SCWDomain::Generating domain artifcats
+TRACE::2024-02-28.16:28:39::SCWMssOS::Generating standalone artifcats
+TRACE::2024-02-28.16:28:39::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::Completed writing the mss file at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-02-28.16:28:39::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-02-28.16:28:39::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-02-28.16:28:39::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-02-28.16:28:39::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-02-28.16:28:39::SCWMssOS::Copying to export directory.
+TRACE::2024-02-28.16:28:39::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-02-28.16:28:39::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-02-28.16:28:39::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-02-28.16:28:39::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2024-02-28.16:28:39::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2024-02-28.16:28:39::SCWPlatform::Started preparing the platform 
+TRACE::2024-02-28.16:28:39::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2024-02-28.16:28:39::SCWSystem::dir created 
+TRACE::2024-02-28.16:28:39::SCWSystem::Writing the bif 
+TRACE::2024-02-28.16:28:39::SCWPlatform::Started writing the spfm file 
+TRACE::2024-02-28.16:28:39::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-02-28.16:28:39::SCWPlatform::Completed generating the platform
+TRACE::2024-02-28.16:28:39::SCWMssOS::Saving the mss changes C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-28.16:28:39::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-28.16:28:39::SCWMssOS::Commit changes completed.
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:28:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:28:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:28:39::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:28:39::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:28:39::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"C:/Users/Kasper/Downloads/progh2week2versie4/week4progh/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.0",
+					"mssFile":	"",
+					"md5Digest":	"6414d04d4f8864190b8988c0bd07aaa3",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-02-28.16:28:39::SCWPlatform::updated the xpfm file.
+LOG::2024-02-28.16:31:51::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2024-02-28.16:31:51::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-02-28.16:31:51::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2024-02-28.16:31:51::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-02-28.16:31:51::SCWSystem::Not a boot domain 
+LOG::2024-02-28.16:31:51::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-02-28.16:31:51::SCWDomain::Generating domain artifcats
+TRACE::2024-02-28.16:31:51::SCWMssOS::Generating standalone artifcats
+TRACE::2024-02-28.16:31:51::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-02-28.16:31:51::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:51::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:51::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:51::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:31:51::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:51::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:31:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:31:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:31:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:31:51::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:51::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:31:51::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:51::SCWMssOS::Completed writing the mss file at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-02-28.16:31:51::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:51::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-02-28.16:31:51::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-02-28.16:31:51::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-02-28.16:31:51::SCWMssOS::doing bsp build ... 
+TRACE::2024-02-28.16:31:51::SCWMssOS::System Command Ran  C: & cd  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2024-02-28.16:31:52::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::make -j 14 --no-print-directory par_libs
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_9/src"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-02-28.16:31:52::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-02-28.16:31:52::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_18/src"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_18/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-02-28.16:31:52::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-02-28.16:31:52::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_10/src"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-02-28.16:31:52::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-02-28.16:31:52::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v9_0/src"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::make -C microblaze_0/libsrc/standalone_v9_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-02-28.16:31:52::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-02-28.16:31:52::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_9/src"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-02-28.16:31:52::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-02-28.16:31:52::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_9/src"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-02-28.16:31:52::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-02-28.16:31:52::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_18/src"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_18/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-02-28.16:31:52::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-02-28.16:31:52::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_10/src"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2024-02-28.16:31:52::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2024-02-28.16:31:52::SCWMssOS::extra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v9_0/src"
+
+TRACE::2024-02-28.16:31:52::SCWMssOS::make -C microblaze_0/libsrc/standalone_v9_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-02-28.16:31:52::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2024-02-28.16:31:52::SCWMssOS::ll -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-28.16:31:53::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_9/src"
+
+TRACE::2024-02-28.16:31:53::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-02-28.16:31:53::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-02-28.16:31:53::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-28.16:31:54::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-02-28.16:31:54::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-02-28.16:31:54::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-02-28.16:31:54::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2024-02-28.16:31:54::SCWMssOS::/hw_exception_handler.o microblaze_0/lib/inbyte.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disa
+TRACE::2024-02-28.16:31:54::SCWMssOS::ble_exceptions.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib
+TRACE::2024-02-28.16:31:54::SCWMssOS::/microblaze_enable_dcache.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microbl
+TRACE::2024-02-28.16:31:54::SCWMssOS::aze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cach
+TRACE::2024-02-28.16:31:54::SCWMssOS::e_ext.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microbl
+TRACE::2024-02-28.16:31:54::SCWMssOS::aze_flush_dcache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microb
+TRACE::2024-02-28.16:31:54::SCWMssOS::laze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cac
+TRACE::2024-02-28.16:31:54::SCWMssOS::he_ext.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/
+TRACE::2024-02-28.16:31:54::SCWMssOS::lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate
+TRACE::2024-02-28.16:31:54::SCWMssOS::_icache_range.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o 
+TRACE::2024-02-28.16:31:54::SCWMssOS::microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0
+TRACE::2024-02-28.16:31:54::SCWMssOS::/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaz
+TRACE::2024-02-28.16:31:54::SCWMssOS::e_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xgpio.o microblaze_0/lib/xgpio_extra.o microblaze_0/li
+TRACE::2024-02-28.16:31:54::SCWMssOS::b/xgpio_g.o microblaze_0/lib/xgpio_intr.o microblaze_0/lib/xgpio_selftest.o microblaze_0/lib/xgpio_sinit.o microblaze_0/lib/xil
+TRACE::2024-02-28.16:31:54::SCWMssOS::_assert.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_exception.o microblaze_0/lib/xil_me
+TRACE::2024-02-28.16:31:54::SCWMssOS::m.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/x
+TRACE::2024-02-28.16:31:54::SCWMssOS::il_testcache.o microblaze_0/lib/xil_testio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/xil_util.o microblaze_0/lib/xinter
+TRACE::2024-02-28.16:31:54::SCWMssOS::rupt_wrap.o microblaze_0/lib/xio.o microblaze_0/lib/xplatform_info.o microblaze_0/lib/xpm_init.o microblaze_0/lib/xuartlite.o m
+TRACE::2024-02-28.16:31:54::SCWMssOS::icroblaze_0/lib/xuartlite_g.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xuartlite_selft
+TRACE::2024-02-28.16:31:54::SCWMssOS::est.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/xuartlite_stats.o
+
+TRACE::2024-02-28.16:31:54::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-02-28.16:31:54::SCWMssOS::Copying to export directory.
+TRACE::2024-02-28.16:31:55::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-02-28.16:31:55::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-02-28.16:31:55::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-02-28.16:31:55::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2024-02-28.16:31:55::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2024-02-28.16:31:55::SCWPlatform::Started preparing the platform 
+TRACE::2024-02-28.16:31:55::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2024-02-28.16:31:55::SCWSystem::dir created 
+TRACE::2024-02-28.16:31:55::SCWSystem::Writing the bif 
+TRACE::2024-02-28.16:31:55::SCWPlatform::Started writing the spfm file 
+TRACE::2024-02-28.16:31:55::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-02-28.16:31:55::SCWPlatform::Completed generating the platform
+TRACE::2024-02-28.16:31:55::SCWMssOS::Saving the mss changes C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-28.16:31:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-28.16:31:55::SCWMssOS::Commit changes completed.
+TRACE::2024-02-28.16:31:55::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:31:55::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:31:55::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:31:55::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:55::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:31:55::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:31:55::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:31:55::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:55::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:31:55::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:31:55::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:31:55::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:55::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"C:/Users/Kasper/Downloads/progh2week2versie4/week4progh/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.0",
+					"mssFile":	"",
+					"md5Digest":	"6414d04d4f8864190b8988c0bd07aaa3",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-02-28.16:31:55::SCWPlatform::updated the xpfm file.
+TRACE::2024-02-28.16:31:55::SCWPlatform::Trying to open the hw design at C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA given C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA absoulate path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform::DSA directory C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw
+TRACE::2024-02-28.16:31:55::SCWPlatform:: Platform Path C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2024-02-28.16:31:55::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-02-28.16:31:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-28.16:31:55::SCWMssOS::Checking the sw design at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-02-28.16:31:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-02-28.16:31:55::SCWMssOS::Sw design exists and opened at  C:/Users/Kasper/vitis_Classic/workspace2/design_1_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
