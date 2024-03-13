@@ -1,0 +1,274 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Mar  6 08:01:23 2024
+# Process ID: 22580
+# Current directory: C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9440 C:\Users\verpl\Documents\progh\progh2\ProgH2Week4V2\week4progh\week4progh.xpr
+# Log file: C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh/vivado.log
+# Journal file: C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh\vivado.jou
+# Running On: Japser, OS: Windows, CPU Frequency: 2918 MHz, CPU Physical cores: 10, Host memory: 16890 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh/week4progh.xpr
+update_compile_order -fileset sources_1
+create_ip_run [get_files -of_objects [get_fileset sources_1] C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh/week4progh.srcs/sources_1/bd/design_1/design_1.bd]
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+add_files -norecurse -scan_for_includes {{C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.srcs/sources_1/imports/Week 5 + 6 - Bounching Square - Ball/vga.vhd}}
+import_files -norecurse {{C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.srcs/sources_1/imports/Week 5 + 6 - Bounching Square - Ball/vga.vhd}}
+update_compile_order -fileset sources_1
+create_ip_run [get_files -of_objects [get_fileset sources_1] C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh/week4progh.srcs/sources_1/bd/design_1/design_1.bd]
+refresh_design
+create_ip_run [get_files -of_objects [get_fileset sources_1] C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh/week4progh.srcs/sources_1/bd/design_1/design_1.bd]
+refresh_design
+open_bd_design {C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh/week4progh.srcs/sources_1/bd/design_1/design_1.bd}
+open_bd_design {C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh/week4progh.srcs/sources_1/bd/design_1/design_1.bd}
+open_bd_design {C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh/week4progh.srcs/sources_1/bd/design_1/design_1.bd}
+create_bd_cell -type module -reference VGA VGA_0
+set_property location {2 466 274} [get_bd_cells VGA_0]
+open_bd_design {C:/Users/verpl/Documents/progh/progh2/ProgH2Week4V2/week4progh/week4progh.srcs/sources_1/bd/design_1/design_1.bd}
+set_property location {2.5 625 58} [get_bd_cells axi_gpio_0]
+set_property location {1 39 -11} [get_bd_cells axi_gpio_0]
+set_property location {2 447 -3} [get_bd_cells axi_gpio_0]
+set_property location {4 1383 270} [get_bd_cells microblaze_0_axi_periph]
+set_property location {2172 -111} [get_bd_intf_ports dip_switches_16bits]
+set_property location {2525 -20} [get_bd_intf_ports dip_switches_16bits]
+set_property location {2366 3} [get_bd_intf_ports dip_switches_16bits]
+set_property location {4 1487 708} [get_bd_cells microblaze_0_local_memory]
+set_property location {4 1379 722} [get_bd_cells microblaze_0_local_memory]
+set_property location {2.5 751 705} [get_bd_cells microblaze_0]
+set_property location {3 913 707} [get_bd_cells microblaze_0]
+set_property location {3 698 932} [get_bd_cells rst_clk_wiz_0_100M]
+set_property location {4.5 1613 151} [get_bd_cells microblaze_0_axi_periph]
+set_property location {2 346 1188} [get_bd_cells axi_gpio_0]
+set_property location {2376 1090} [get_bd_intf_ports dip_switches_16bits]
+set_property location {3 687 1166} [get_bd_cells axi_gpio_0]
+set_property location {1 29 960} [get_bd_cells clk_wiz_0]
+save_bd_design
+close_project
+open_project C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.xpr
+update_compile_order -fileset sources_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+disconnect_hw_server localhost:3121
+connect_hw_server -allow_non_jtag
+disconnect_hw_server localhost:3121
+connect_hw_server -allow_non_jtag
+disconnect_hw_server localhost:3121
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+reset_run impl_1 -prev_step 
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+open_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+close_hw_manager
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+close_hw_manager
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.runs/impl_1/main.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+close [ open C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.srcs/sources_1/new/LocationRam.vhd w ]
+add_files C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.srcs/sources_1/new/LocationRam.vhd
+update_compile_order -fileset sources_1
+close_hw_manager
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top locationRAM [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+current_design rtl_1
+refresh_design
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+refresh_design
+refresh_design
+refresh_design
+refresh_design
+refresh_design
+refresh_design
+refresh_design
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+reset_run synth_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top main [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+refresh_design
+reset_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+reset_run impl_1
+launch_runs impl_1 -jobs 16
+wait_on_run impl_1
+copy_run -name synth_1_copy_2 [get_runs synth_1] 
+copy_run -name synth_1_copy_3 [get_runs synth_1] 
+reset_run impl_1
+launch_runs impl_1 -jobs 16
+wait_on_run impl_1
+set_property source_mgmt_mode DisplayOnly [current_project]
+reorder_files -before C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.srcs/sources_1/new/locationDetermination.vhd C:/Users/verpl/Documents/project/retrogame/bouncycube/bouncycube.srcs/sources_1/new/main.vhd
+reset_run clk60Hz_synth_1
+launch_runs clk60Hz_synth_1
+wait_on_run clk60Hz_synth_1
